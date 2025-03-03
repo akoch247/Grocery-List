@@ -1,0 +1,33 @@
+h1 {
+    color: rgb(137, 229, 234);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+}
+
+h2 {
+    background-color:bisque;
+    border: 2px solid;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color:brown
+}
+h3 {
+    background-color: rgba(219, 219, 219, 0.927);
+    border: 2px solid;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    display: inline-block;
+    padding: 25px
+
+}
+img {
+    border: solid;;
+    width: 200px;
+    height: 170px;
+    display: inline-block
+    
+}
+
+section {
+    background-color: aqua;
+}
